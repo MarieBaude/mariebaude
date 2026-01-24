@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - My name is Marie
-- I'm 29
-- I'm a junior front-end developer
+- I'm 30
+- I'm a junior full-stack developer
 
 
 ## Skills
